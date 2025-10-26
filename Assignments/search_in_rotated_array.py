@@ -3,7 +3,6 @@ Given an array of distinct elements, which is formed from some places rotation o
 Note: Try to do it in O(logn) runtime complexity
 """
 
-
 nums = [4,5,6,7,0,1,2] #3,
 target = 0
 def solution(nums,target):
